@@ -1,0 +1,17 @@
+{
+  "name": "photoshop-react-redux-ramda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "build": "babel js/main.js --out-file js/build.js",
+    "start": "babel js/main.js --watch --out-file js/build.js"
+  },
+  "author": "Jon Gold",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0"
+  }
+}
