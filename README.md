@@ -59,6 +59,8 @@ reload the page is double clicking on the panel twice to collapse & reopen with
 it - should reinitialize it. You'll then have to visit `http://localhost:8087`
 again to reconnect the debugger.
 
+**You can use this boilerplate in other CreativeCloud apps too** - just change the targets in `CSXS/manifest.xml` and it should show up in whatever app you want. ExtendScript APIs are different per app but they're all in the docs.
+
 ## Readin’ 📚
 - [Adobe's ExtendScript docs…in a PDF](http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/photoshop/pdfs/photoshop-cc-javascript-ref-2015.pdf)
 - [Nicer ExtendScript docs](http://yearbook.github.io/esdocs/)
