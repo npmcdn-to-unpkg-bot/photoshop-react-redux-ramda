@@ -27,7 +27,7 @@ git clone git@github.com:jongold/photoshop-react-redux-ramda.git com.yourcompany
 
 ## Buildin’ 🛠
 I couldn't deal with certificate signing just yet. Should you want to distribute
-an extension there are resources in the Adobe CEP docs down there 👇👇👇👇👇
+an extension there are resources in the Adobe CEP docs [down there 👇👇👇👇👇](https://github.com/jongold/photoshop-react-redux-ramda/#readin-)
 
 So to enable debug mode in terminal:
 ```shell
