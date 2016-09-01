@@ -50,7 +50,7 @@ UI stuff is in `js/`
 
 ExtendScript is in `jsx/` - this is _not_ JSX like React-JSX.
 
-You could probably add the dependencies to the package.json but I was being lazy, sorry. They're being pulled from npmcdn in index.html.
+You could probably add the dependencies to the package.json but I was being lazy, sorry. They're being pulled from unpkg in index.html.
 
 After making changes to the UI ⌘-r in the browser.
 
